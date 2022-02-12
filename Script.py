@@ -5,14 +5,18 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/DareAbijth>⚡️࿐乂Ͼ🅰️🅱️🅸🅹🆃🅸🅷Ͽ乂࿐⚡️.k</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+
+✯𝙻𝙸𝙱𝚁𝙰𝚁𝚈: [𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼](https://docs.pyrogram.org/)
+
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: [𝙿𝚈𝚃𝙷𝙾𝙽 𝟹](https://www.python.org/downloads/)
+
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: [𝙼𝙾𝙽𝙶𝙾 𝙳𝙱](https://www.mongodb.com/)
+
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: [𝙷𝙴𝚁𝙾𝙺𝚄](https://heroku.com/)
+
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v8.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - Never Ever U can't Get 
+-  [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/REX_BOTZ)
 
 <b>DEVS:</b>
 - <a href=https://t.me/DareAbijth>⚡️࿐乂Ͼ🅰️🅱️🅸🅹🆃🅸🅷Ͽ乂࿐⚡️.k</a>"""
@@ -40,7 +44,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Kazuto_Kirigayav2_bot)</code>
+<code>[Button Text](buttonurl:https://t.me/DareAbijth)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
